@@ -1,0 +1,13 @@
+Para o inicio do git de um projeto use:
+git init
+
+Para adicionar as mudanças do projeto no git
+git  add   - - all
+
+depois 
+git commit -m "nome do que voce fez"
+
+depois voce coloca o endereço do seu repositorio
+
+depois para subir para o repositorio
+git push -u origin master
